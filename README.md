@@ -16,4 +16,10 @@
   1.HTML<br>
   2.CSS<br>
   3.JavaScript<br>
+  
+  make asset folder and put all image files in it.<br>
+  
+  make css files as seperate folder which named as "css".<br>
+  
+  
 
